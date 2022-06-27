@@ -454,7 +454,7 @@ body.light-theme {
     }
 
     .home {
-        margin-top: 20rem;
+        margin-top: 10rem;
     }
 
     .home__button {
@@ -471,7 +471,7 @@ body.light-theme {
     }
 
     .work {
-        margin-top: 20rem;
+        margin-top: 10rem;
     }
 
     .work__item {
@@ -483,7 +483,7 @@ body.light-theme {
     }
 
     .footer {
-        margin-top: 20rem;
+        margin-top: 10rem;
     }
 }
 
@@ -497,7 +497,7 @@ body.light-theme {
     }
 
     .home {
-        margin-top: 50rem;
+        margin-top: 10rem;
     }
 
     .about {
@@ -509,7 +509,7 @@ body.light-theme {
     }
 
     .work {
-        margin-top: 20rem;
+        margin-top: 10rem;
     }
 
     .work__container {
@@ -521,13 +521,29 @@ body.light-theme {
     }
 
     .footer {
-        margin-top: 50rem;
+        margin-top: 10rem;
     }
 }
 
 @media screen and (min-width: 767px) {
+    .home {
+        margin-top: 10rem;
+    }
+    
+    .about {
+        margin-top: 20rem;
+    }    
+    
+    .work {
+        margin-top: 20rem;
+    }
+    
     .work__container {
         grid-template-columns: repeat(2, max-content);
+    }
+    
+    .footer {
+        margin-top: 20rem;
     }
 }
 
