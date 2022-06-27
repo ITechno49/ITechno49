@@ -497,11 +497,11 @@ body.light-theme {
     }
 
     .home {
-        margin-top: 20rem;
+        margin-top: 50rem;
     }
 
     .about {
-        margin-top: 10rem;
+        margin-top: 50rem;
     }
 
     .about__decsription {
@@ -521,7 +521,7 @@ body.light-theme {
     }
 
     .footer {
-        margin-top: 20rem;
+        margin-top: 50rem;
     }
 }
 
