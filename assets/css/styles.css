@@ -437,7 +437,7 @@ body.light-theme {
 /*================ FAQ ===============*/
 .faq__container {
     margin: 0 40px;
-    max-width: 620px;
+    max-width: 600px;
     display: flex;
     flex-direction: column;
     gap: 20px;
