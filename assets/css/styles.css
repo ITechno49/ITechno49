@@ -652,6 +652,16 @@ input:checked ~ .faq__content .faq__desc {
     .work__filters {
         column-gap: .25rem;
     }
+     .text3, 
+    .text4 {
+        width: 100px;
+        border-radius: 5px;
+    }
+
+    .text {
+        border-radius: 5px;
+        width: 50px;
+    }
 }
 
 /*for medium devices*/
